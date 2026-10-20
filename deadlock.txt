@@ -1,0 +1,10 @@
+Task 5: jstack output
+
+Replace this placeholder with the actual thread dump captured while the Task 5
+program is in the deadlocked state. For example:
+
+  jps -l
+  jstack <java-process-id> > deadlock.txt
+
+Do not submit this placeholder as evidence; include the real output required by
+your lab instructions.
